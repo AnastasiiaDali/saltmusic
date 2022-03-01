@@ -6,9 +6,9 @@ Features implementation in SaltMusic App.
 
 Advanced search is implemented by using:
 
-- UI components, such as input, select, checkboxes, accordion provided by Chakra UI
+- UI components, such as Input, Select, Checkboxes, Accordion provided by Chakra UI
 - React Hooks, Redux Toolkit, React Query
-- Conditional rendering
+- Conditional Rendering
 
 Search can be done by:
 
@@ -28,7 +28,7 @@ Functionality includes:
 
 - add/remove to favorite(stored in redux)
 - display all favorite songs on Favorite page
-- Favorite songs showcased in Discover page as well
+- favorite songs showcased in Discover page as well
 
 ## integration with other API: Album songs
 

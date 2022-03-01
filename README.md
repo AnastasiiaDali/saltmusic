@@ -1,10 +1,8 @@
 ![Logo](https://uploads-ssl.webflow.com/6154ca2aca1f5db2788bebe5/6183f49fb4d7e6654f4607f4_ico.png)
 
-# SaltPay Music
+# SaltMusic
 
-New way of enjoying the world's best music.
-
-Technical tasks can be found [here](/docs/TASKS.md).
+New way of enjoying the world best music.
 
 ### This project is using:
 
@@ -13,13 +11,7 @@ Technical tasks can be found [here](/docs/TASKS.md).
 - Redux Toolkit
 - React Query
 - Dev tools: Eslint, Prettier, Husky, Jest, React Testing Library and Coverage
-
-## Implemented based on Main Tasks:
-
-- Show top 100 albums based on the json feed here: `https://itunes.apple.com/us/rss/topalbums/limit=100/json`
-- A clean modern look
-- A good user experience
-- Allow the top 100 to be searchable
+- API with top 100 albums: `https://itunes.apple.com/us/rss/topalbums/limit=100/json`
 
 ## Additional Features
 
@@ -36,13 +28,13 @@ More detailed information about additional features can be found [here](/docs/FE
 Clone the project
 
 ```bash
-  git clone git clone http://saltpay-msuzjv@git.codesubmit.io/saltpay/salt-eng-javascript-and-react-azdhkh
+  git clone git@github.com:AnastasiiaDali/saltmusic.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd salt-eng-javascript-and-react-azdhkh
+  cd saltmusic
 ```
 
 Install dependencies
